@@ -1,3 +1,3 @@
 # otus-test
 
-Derscription: This is my project.
+Description: This is my project.
